@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BushraZubair
+- 👋 Hi, I’m @Zoya
 - 👀 I’m a full stack developer.
 
 <!---
